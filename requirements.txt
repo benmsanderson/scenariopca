@@ -1,0 +1,7 @@
+pyam-iamc>=2.2
+pandas>=2.2
+unfccc-di-api
+eofs
+corner
+fsspec
+ipykernel
