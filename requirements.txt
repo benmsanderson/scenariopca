@@ -1,0 +1,8 @@
+python>=3.12,<3.13
+pyam-iamc>=2.2
+pandas>=2.2
+unfccc-di-api
+eofs
+corner
+fsspec
+ipykernel
